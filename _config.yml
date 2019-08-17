@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Seoyoung H"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/images/profile.JPG"
   bio              : "경영학과를 다니다 뜬금없이 개발에 눈을 떠 열심히 공부 중인 개발자의 블로그입니다. 주로 machine learning, data science를 공부합니다."
   location         : "Seoul, South Korea"
   email            :
