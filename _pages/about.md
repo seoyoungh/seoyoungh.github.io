@@ -3,9 +3,9 @@ title: "About Me"
 permalink: /about/
 layout: single
 ---
-*Don't hesitate, Do wat I want!*  
+*Don't hesitate, Do what I want!*  
 
-![profile]("https://seoyoungh.github.io/assets/images/skylar.png")
+![profile](https://seoyoungh.github.io/assets/images/profile1.png)
 
 ## Seoyoung Hong
 >**Data Scientist / Developer**    
