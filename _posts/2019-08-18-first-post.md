@@ -3,8 +3,7 @@ title:  "github pages를 활용한 블로그 시작하기"
 excerpt: "가장 중요했던 목표! 블로그 시작하기!"
 
 categories:
-  - Random
-  - Record
+  - random
 tags:
   - Blog
 ---
