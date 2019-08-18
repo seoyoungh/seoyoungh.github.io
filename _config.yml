@@ -24,7 +24,7 @@ description              : "경영학과를 다니다 뜬금없이 개발에 눈
 url                      : "https://seoyoungh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/main.jpeg"
+teaser                   : "/assets/images/main.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
