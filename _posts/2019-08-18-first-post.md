@@ -1,6 +1,8 @@
 ---
 title:  "github pages를 활용한 블로그 시작하기"
 excerpt: "가장 중요했던 목표! 블로그 시작하기!"
+toc: true
+toc_sticky: true
 
 categories:
   - random
