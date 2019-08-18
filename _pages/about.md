@@ -3,8 +3,7 @@ title: "About Me"
 permalink: /about/
 layout: single
 ---
-## About Me
-**Seoyoung Hong**
+## Seoyoung Hong
 *Data Scientist / Developer*  
 
 *Ideation 50% 호기심 30% 알코올 10% 충청도 감성 10%*  
