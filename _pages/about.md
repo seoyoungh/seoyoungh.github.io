@@ -5,7 +5,7 @@ layout: single
 ---
 *Don't hesitate, Do what I want!*  
 
-![profile](https://seoyoungh.github.io/assets/images/profile1.png)
+<img src="https://seoyoungh.github.io/assets/images/profile1.png" width="30%">
 
 ## Seoyoung Hong
 >**Data Scientist / Developer**    
