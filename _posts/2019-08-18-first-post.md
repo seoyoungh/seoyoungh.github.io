@@ -37,6 +37,8 @@ tags:
 
 그리고 기본적인 git 사용을 위해 [생활코딩의 Git 강좌](https://opentutorials.org/module/3733)로 공부했다. Git2인 SourceTree랑 command line으로 git을 다루는 강좌를 이어서 들을 예정이다.
 
++ 수학식 표시를 위해 [Jekyll Github 블로그에 MathJax로 수학식 표시하기](https://mkkim85.github.io/blog-apply-mathjax-to-jekyll-and-github-pages/)를 참고했다.
+
 ## 앞으로의 계획
 개발에 대한 글이 주로 올라올 것이다. 머신러닝을 공부하는 과정, 개발에 대한 다양한 이야기 등.. 그래도 가끔은 내 주저리가 올라오지 않을까 싶다. 헤헤
 
