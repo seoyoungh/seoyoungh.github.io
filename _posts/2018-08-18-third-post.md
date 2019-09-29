@@ -1,15 +1,15 @@
 ---
-title:  "Tensorflow 기초"
+title:  "tensorflow 기초"
 excerpt: "Sung Kim 교수님 강의로 공부하는 머신러닝"
 toc: true
 toc_sticky: true
 use_math: true
 
 categories:
-  - machine-learning
+  - deep-learnig-zero-to-all
 tags:
   - machine-learning
-  - Tensorflow
+  - tensorflow
 ---
 ~~아직 작성 중인 문서입니다.~~
 

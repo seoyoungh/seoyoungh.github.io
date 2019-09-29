@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: machine-learning
 ---
 
-머신러닝 공부의 기록입니다.
+머신러닝에 관해 자유롭게 작성한 포스트입니다.

@@ -54,7 +54,8 @@ Hey! I'm `Seoyoung` a.k.a `Skylar`!
 
 ## Skills
 * Python
-    * Tensorflow, Django
+    * Tensorflow
+    * Django
 * C++
 * R
 * Git

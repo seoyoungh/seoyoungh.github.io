@@ -7,7 +7,7 @@ toc_sticky: true
 categories:
   - random
 tags:
-  - Blog
+  - blog
 ---
 
 ## 블로그를 시작하게 된 계기

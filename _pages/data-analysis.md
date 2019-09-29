@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: data-analysis
 ---
 
-데이터 분석 공부를 기록합니다.
+데이터 분석에 관해 자유롭게 작성한 포스트 입니다.
