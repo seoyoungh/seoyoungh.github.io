@@ -1,5 +1,5 @@
 ---
-title:  "github pages를 활용한 블로그 시작하기"
+title:  "GitHub pages를 활용한 블로그 시작하기"
 excerpt: "가장 중요했던 목표! 블로그 시작하기!"
 toc: true
 toc_sticky: true
@@ -46,4 +46,5 @@ tags:
 
 ## 주저리
 ![md package](/assets/images/md%20package.png)
+
 Atom에서 Markdown Preview 패키지를 적용해 블로그 글을 쓰고 있다. (대박) 마크다운 쓰는 것 너무 재밌다. 적용되는 모습을 볼 수 있어서 편한 것 같다. 블로그 에디터보다 훨씬 직관적이고 쓰기 간편하다고 느낀다! 열심히 써야지!
