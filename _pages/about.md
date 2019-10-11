@@ -8,10 +8,10 @@ layout: single
 <img src="https://seoyoungh.github.io/assets/images/profile1.png" width="30%">
 
 ## Seoyoung Hong
->**Data Scientist / Developer**    
+>**Machine Learning Enginner / Developer**    
 >Ideation 50% 호기심 30% 알코올 10% 충청도 여유 10% 
 
-Hey! I'm `Seoyoung` a.k.a `Skylar`!  
+Here's `Seoyoung` a.k.a `Skylar` :) 
 
 경희대학교 경영학과, 소프트웨어융합학과 데이터사이언스트랙에 재학 중입니다.  
 현재는 휴학하고 인턴을 하며 하고 싶은 공부를 마음껏 하고 있습니다.
@@ -61,3 +61,24 @@ Hey! I'm `Seoyoung` a.k.a `Skylar`!
 * Git
 * Adobe Photoshop
 * English
+
+## Courses 
+* **Uni Courses**
+    - **Computer Science**
+        - 웹/파이썬 프로그래밍 (Web/Python Programming)
+        - 객체지향 프로그래밍 (Object Oriented Programming)
+        - 자료구조 (Data Structure)
+        - 운영체제 (Operating System)
+        - Et cetera
+    - **Data Science**
+        - 데이터마이닝 (Data Mining)
+    - **Mathemathics** 
+        - 미분적분학1 (Calculus)
+        - 확률 및 랜덤 변수 (Probability and Random Variables)
+
+* **Online Courses**
+    - 모두를 위한 딥러닝 (Deep Learning Zero To All) - Sung Kim 
+    - CS231n: Convolutional Neural Networks for Visual Recognition - Stanford
+
+* **Books**
+    - An Introduction to Statistical Learning
