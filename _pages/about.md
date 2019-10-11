@@ -69,7 +69,7 @@ Here's `Seoyoung` a.k.a `Skylar` :)
         - 객체지향 프로그래밍 (Object Oriented Programming)
         - 자료구조 (Data Structure)
         - 운영체제 (Operating System)
-        - Et cetera
+        - Et cetera.
     - **Data Science**
         - 데이터마이닝 (Data Mining)
     - **Mathemathics** 
