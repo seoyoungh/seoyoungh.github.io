@@ -1,5 +1,5 @@
 ---
-title:  "[선형대수] 벡터의 정의, 벡터의 표현, 벡터 계산, 단위 벡터, 매개변수 방정식"
+title:  "선형대수: 벡터의 정의, 벡터의 표현, 벡터 계산, 단위 벡터, 매개변수 방정식"
 excerpt: "Vectors and spaces (Khan Academy)"
 toc: true
 toc_sticky: true
