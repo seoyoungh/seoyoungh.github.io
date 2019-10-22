@@ -1,6 +1,6 @@
 ---
 title:  "[선형대수] 벡터의 정의, 벡터의 표현, 벡터 계산, 단위 벡터, 매개변수 방정식"
-excerpt: "Khan Academy 강의로 선형대수 공부하기 - Vectors and spaces (1)"
+excerpt: "Vectors and spaces (Khan Academy)"
 toc: true
 toc_sticky: true
 use_math: true
