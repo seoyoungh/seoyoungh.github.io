@@ -154,7 +154,7 @@ convex function은 볼록함수로, 다음과 같이 local minimum은 없고, gl
 
 ![Screen Shot 2019-10-27 at 11.00.02 PM](/assets/images/Screen%20Shot%202019-10-27%20at%2011.00.02%20PM.png){: width="80%" height="80%"}
 
-*`Prediction` = `Data Matrix` x `Parameters`* 과 같이 `vectorization`, 코드로 벡터를 만들어서 더욱 효율적으로 모델의 결과값을 도출할 수 있다.
+`Prediction` = `Data Matrix` x `Parameters`과 같이 `vectorization`, 코드로 벡터를 만들어서 더욱 효율적으로 모델의 결과값을 도출할 수 있다.
 
 * 추가) 선형대수 수업을 듣고 나서
   - 사실 이 트릭은 선형대수에서 연립일차방정식들을 행렬로 계산하는 수학적인 발상을 관통한다. 사실 변수는 가만히 있고, coefficient들만 바뀌기 때문에 계산을 쉽게 하기 위해 행렬을 도입했다. 이 regression에서 값을 도출하는 과정도 결국 coefficient들인 data만 변하기 때문에 행렬을 적용하면 훨씬 간단하게 계산이 가능한 것이다!
