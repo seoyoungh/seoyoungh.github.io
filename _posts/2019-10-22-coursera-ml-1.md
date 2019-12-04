@@ -135,7 +135,7 @@ convex function은 볼록함수로, 다음과 같이 local minimum은 없고, gl
 * 보통 행렬은 A,B,X,Y와 같이 대문자로 표기하고, 일반적인 벡터, 숫자, 자료값, 스칼라값은 a,b,x,y로 표기한다.
 
 ## Addition and Scalar Multiplication
-[행렬의 덧셈, 행렬과 스칼라의 곱 제 기존 포스팅으로 대체합니다.](https://seoyoungh.github.io/linear-algebra/linear-algebra-1/)
+[행렬의 덧셈, 행렬과 스칼라의 곱에 대한 설명은 제 기존 포스팅으로 대체합니다.](https://seoyoungh.github.io/linear-algebra/linear-algebra-1/)
 
 스칼라는 실수, real number를 의미한다. 그리고, 차원이 다른 두 행렬은 덧셈과 뺄셈이 불가능하다는 것에 유의하자.
 

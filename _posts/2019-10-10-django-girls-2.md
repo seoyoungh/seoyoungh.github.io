@@ -13,7 +13,7 @@ tags:
 아래 내용은 [Django Girls Tutorial](https://tutorial.djangogirls.org/ko)을 바탕으로 합니다.
 
 ### Django 프로젝트 시작하기!
-가상환경으로 접속한 후, terminal에서 다음과 같이 입력한다.
+`$ source myvenv/bin/activate` 가상환경으로 접속한 후, terminal에서 다음과 같이 입력한다.
 `django-admin startproject <project name> .`
 
 `django-admin.py`은 스크립트로 디렉토리와 파일들을 생성한다.
