@@ -14,7 +14,6 @@ layout: single
 Here's `Seoyoung` a.k.a `Skylar` :)
 
 경희대학교 경영학과, 소프트웨어융합학과 데이터사이언스트랙에 재학 중입니다.  
-현재는 휴학하고 인턴을 하며 하고 싶은 공부를 마음껏 하고 있습니다.
 
 뻔한 사람이 되지 않으려 노력합니다. 따뜻한 사람이 되고자 합니다.  
 제 자신의 한계는 없다고 생각하며 앞으로 더 나아가고자 합니다.  
@@ -30,6 +29,10 @@ Here's `Seoyoung` a.k.a `Skylar` :)
 * Airbnb 여행을 좋아합니다.
 
 ## Experience
+
+### 2020
+>**Need to update**
+
 ### 2019
 >**Studying software engineering**  
 `데이터 사이언스` 및 `개발` 학업을 진행 중에 있습니다. Python이 재밌어서 `Python based frameworks`에 관심을 두고 공부하고 있습니다. `머신러닝/딥러닝` 분야에 관심을 갖게 되어 공부 중입니다.
@@ -62,7 +65,7 @@ Here's `Seoyoung` a.k.a `Skylar` :)
 * Adobe Photoshop
 * English
 
-## Courses
+## Courses (Need to update)
 * **Uni Courses**
     - **Computer Science**
         - 웹/파이썬 프로그래밍 (Web/Python Programming)
@@ -72,7 +75,7 @@ Here's `Seoyoung` a.k.a `Skylar` :)
         - Et cetera.
     - **Data Science**
         - 데이터마이닝 (Data Mining)
-    - **Mathematics** 
+    - **Mathematics**
         - 미분적분학1 (Calculus)
         - 확률 및 랜덤 변수 (Probability and Random Variables)
 
