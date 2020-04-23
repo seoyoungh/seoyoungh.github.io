@@ -8,12 +8,10 @@ layout: single
 <img src="https://seoyoungh.github.io/assets/images/profile1.png" width="30%">
 
 ## Seoyoung Hong
->**Machine Learning Enginner / Developer**    
+>**Machine Learning Engineer / Developer**    
 >Ideation 50% 호기심 30% 알코올 10% 충청도 여유 10%
 
-Here's `Seoyoung` a.k.a `Skylar` :)
-
-경희대학교 경영학과, 소프트웨어융합학과 데이터사이언스트랙에 재학 중입니다.  
+현재 경희대학교 경영학과, 소프트웨어융합학과 데이터사이언스트랙에 재학 중입니다.  
 
 뻔한 사람이 되지 않으려 노력합니다. 따뜻한 사람이 되고자 합니다.  
 제 자신의 한계는 없다고 생각하며 앞으로 더 나아가고자 합니다.  
@@ -21,17 +19,17 @@ Here's `Seoyoung` a.k.a `Skylar` :)
 소중한 사람들과 즐거운 일들로 하루하루 채워나가는 중입니다.
 
 ### Things I like
-* 사람을 가장 좋아합니다.
-* 세상에서 제일 귀엽고 재밌는 동생을 좋아합니다.
-* 떡볶이에 빠져있습니다.
-* 강아지를 좋아합니다.
-* 맥주와 와인을 좋아합니다.
-* Airbnb 여행을 좋아합니다.
+* 사람을 가장 좋아합니다 🌼
+* 세상에서 제일 귀엽고 재밌는 동생을 좋아합니다 🐣
+* 떡볶이와 닭발에 빠져있습니다 💕
+* 강아지를 좋아합니다 🐕
+* 맥주와 와인을 좋아합니다 🍺🍷
+* Airbnb 여행을 좋아합니다 🚗
 
 ## Experience
 
 ### 2020
->**Need to update**
+>**Needs to be updated**
 
 ### 2019
 >**Studying software engineering**  
@@ -58,30 +56,40 @@ Here's `Seoyoung` a.k.a `Skylar` :)
 ## Skills
 * Python
     * Tensorflow
-    * Django
+    * Pytorch
+    * Django - basic
 * C++
 * R
 * Git
+* Docker
 * Adobe Photoshop
 * English
 
-## Courses (Need to update)
+## Courses
 * **Uni Courses**
     - **Computer Science**
-        - 웹/파이썬 프로그래밍 (Web/Python Programming)
-        - 객체지향 프로그래밍 (Object Oriented Programming)
+        - 웹/파이썬프로그래밍 (Web/Python Programming)
+        - 객체지향프로그래밍 (Object Oriented Programming)
         - 자료구조 (Data Structure)
         - 운영체제 (Operating System)
+        - 알고리즘분석 (Algorithm Analysis)
+        - 데이터센터프로그래밍 (Datacenter Programming)
         - Et cetera.
     - **Data Science**
         - 데이터마이닝 (Data Mining)
+        - 프로세스마이닝 (Process Mining)
+        - 금융공학 (Financial Engineering)
     - **Mathematics**
         - 미분적분학1 (Calculus)
-        - 확률 및 랜덤 변수 (Probability and Random Variables)
+        - 공학수학1 (Differential Equations)
+        - 선형대수 (Linear Algebra)
+        - 확률및랜덤변수 (Probability and Random Variables)
 
 * **Online Courses**
     - 모두를 위한 딥러닝 (Deep Learning Zero To All) - Sung Kim
     - CS231n: Convolutional Neural Networks for Visual Recognition - Stanford
+    - Et cetera.
 
 * **Books**
     - An Introduction to Statistical Learning
+    - Et cetera.
