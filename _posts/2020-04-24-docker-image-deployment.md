@@ -10,13 +10,14 @@ categories:
 tags:
   - dockerhub
 ---
+
 Datacenter programming 수업에서 직접 만든 docker image를 docker hub에 deploy하려는데, 계속 아래와 같은 이슈가 발생했다.
 
 ```
 denied: requested access to the resource is denied
 ```
 
-![Screen Shot 2020-04-24 at 1.20.57 AM](/assets/images/Screen%20Shot%202020-04-24%20at%201.20.57%20AM.png)
+![Screen Shot 2020-04-24 at 1.20.57 AM](/assets/images/Screen%20Shot%202020-04-24%20at%201.20.57%20AM.png){: width="60%" height="60%"}
 
 구글링해보니 나와 같은 이슈를 겪고 있는 사람들이 많았다. Linux에서는 발생하지 않는 이슈고, 보통 macOS에서 이런 이슈가 발생하는 것 같았다. dockerhub에 로그인이 되지 않은 경우에 위와 같은 오류가 발생한다고 했다. 그런데 나는 로그인이 아주 잘 되어 있었다!
 
@@ -47,6 +48,6 @@ $ docker push seoyoungh/my-nginx:1.0
 ```
 이 명령을 수행하면, 정상적으로 dockerhub에 내가 만든 docker image를 push할 수 있다.
 
-![Screen Shot 2020-04-24 at 1.29.40 AM](/assets/images/Screen%20Shot%202020-04-24%20at%201.29.40%20AM.png)
+![Screen Shot 2020-04-24 at 1.29.40 AM](/assets/images/Screen%20Shot%202020-04-24%20at%201.29.40%20AM.png){: width="80%" height="80%"}
 
 my-nginx 배포때는 캡쳐하지 못해 my-django push 결과 화면을 첨부한다 😀
