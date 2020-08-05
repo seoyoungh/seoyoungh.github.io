@@ -6,10 +6,10 @@ toc_sticky: true
 use_math: true
 
 categories:
-  - coursera-machine-learning
+  - machine-learning
 tags:
   - machine-learning
-  - tensorflow
+  - coursera
 ---
 Andrew Ng 교수님의 Coursera 강좌 [Machine Learning offered by Stanford](https://www.coursera.org/learn/google-machine-learning?) Week 2 에 해당하는 내용입니다.
 

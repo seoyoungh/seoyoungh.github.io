@@ -6,8 +6,9 @@ toc_sticky: true
 use_math: true
 
 categories:
-  - docker
+  - today-i-learned
 tags:
+  - docker
   - dockerhub
 ---
 

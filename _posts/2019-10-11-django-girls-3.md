@@ -5,8 +5,9 @@ toc: true
 toc_sticky: true
 
 categories:
-  - django-girls
+  - django
 tags:
+  - django-girls
   - django
   - web
 ---

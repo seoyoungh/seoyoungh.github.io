@@ -6,14 +6,11 @@ toc_sticky: true
 use_math: true
 
 categories:
-  - dacon-study
+  - machine-learning
 tags:
   - machine-learning
   - deep-learning
 ---
-
-데이콘에서 진행한 원자력 발전소 상태 판단 competition의 데이터를 바탕으로 스터디를 진행하고 있습니다. 데이콘에서 제공한 [log loss에 대해 알아보자](https://youtu.be/i5U2inxzXx4) 영상을 참고했습니다.
-
 ## Loss function (손실 함수)란?
 **Cross-Entropy** 라고도 불린다.
 
