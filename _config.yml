@@ -20,7 +20,7 @@ title                    : "호두코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seoyoung H"
-description              : "경영학과를 다니다 개발에 눈을 떠 열심히 공부 중인 개발자의 블로그입니다. 주로 NLP/AI, 간간히 back-end를 공부합니다."
+description              : "경영학과를 다니다 개발에 눈을 뜬 Data Scientist 꿈나무. Data Science, Machine Learning, NLP를 공부합니다."
 url                      : "https://seoyoungh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Seoyoung H"
   avatar           : "/assets/images/profile.JPG"
-  bio              : "경영학과를 다니다 개발에 눈을 떠 열심히 공부 중인 개발자의 블로그입니다. 주로 NLP/AI, 간간히 back-end를 공부합니다."
+  bio              : "경영학과를 다니다 개발에 눈을 뜬 Data Scientist 꿈나무. Data Science, Machine Learning, NLP를 공부합니다."
   location         : "Seoul, South Korea"
   email            :
   links:
