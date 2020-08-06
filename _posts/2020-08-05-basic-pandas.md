@@ -6,7 +6,7 @@ toc_sticky: true
 use_math: true
 
 categories:
-  - data-analysis
+  - data-science
 tags:
   - pandas
   - data-analysis
