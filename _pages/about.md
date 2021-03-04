@@ -11,7 +11,7 @@ layout: single
 >**Data Scientist / Machine Learning Engineer / Developer**    
 >Ideation 50% 호기심 30% 알코올 10% 충청도 여유 10%
 
-지극히 개인적인 프로필입니다. CV는 [여](https://www.notion.so/seoyoungh/Skylar-6b5608d245f742f7870f1378723e96ef){: target="_blank"}
+지극히 개인적인 프로필입니다. CV는 [여기](https://www.notion.so/seoyoungh/Skylar-6b5608d245f742f7870f1378723e96ef){: target="_blank"}
 
 뻔한 사람이 되지 않으려 노력합니다. 따뜻한 사람이 되고자 합니다.  
 제 자신의 한계는 없다고 생각하며 앞으로 더 나아가고자 합니다.  
