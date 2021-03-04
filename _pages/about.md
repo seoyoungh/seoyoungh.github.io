@@ -29,7 +29,7 @@ layout: single
 ## Timeline
 ### 2021
 >**Finally graduated and started masters!**   
-결국.. 무사히 대졸자가 되었습니다! 졸업 후 [BigDyL](https://sites.google.com/view/npark) 랩에서 열정 가득하신 교수님, 랩 구성원 분들과 (ㅎㅎ) 연구를 시작했습니다. 사용자에게 더 나은 경험을 줄 수 있는 딥러닝 기반 예측, 추천, 최적화 등의 문제를 풀고자 합니다.
+결국.. 무사히 대졸자가 되었습니다! 졸업 후 [BigDyL](https://sites.google.com/view/npark) 랩에서 열정 가득하신 교수님, 랩 구성원 분들과 연구를 시작했습니다. 사용자에게 더 나은 경험을 줄 수 있는 딥러닝 기반 예측, 추천, 최적화 등의 문제를 풀고자 합니다.
 
 ### 2020
 >**Decided to be a data scientist!**   
