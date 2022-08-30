@@ -43,7 +43,15 @@ layout: default
     {{ content }}
   </article>
 
-  {%- if site.disqus_shortname and page.comments -%}
+  <script src="https://utteranc.es/client.js"
+    repo="seoyoungh/blog-comments"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+  </script>
+
+  <!-- {%- if site.disqus_shortname and page.comments -%}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
       var disqus_shortname  = '{{ site.disqus_shortname }}';
@@ -56,6 +64,6 @@ layout: default
       })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  {%- endif %}
+  {%- endif %} -->
 
 </div>
