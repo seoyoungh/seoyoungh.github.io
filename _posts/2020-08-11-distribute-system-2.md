@@ -14,7 +14,7 @@ permalink: /:categories/:title/
 
 아래 대부분의 내용은 도서 **빅데이터를 지탱하는 기술**에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 벌크 형 & 스트리밍 형의 데이터 전송, 시계열 데이터 수집을 최적화하는 방법에 대해 알아보자.
 

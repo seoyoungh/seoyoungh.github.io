@@ -12,7 +12,7 @@ permalink: /:categories/:title/
 ---
 인공지능 수업에서 다룬 Perceptron을 정리하려 한다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### Perceptron
 

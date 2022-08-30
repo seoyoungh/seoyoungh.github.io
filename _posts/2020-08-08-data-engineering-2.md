@@ -14,7 +14,8 @@ permalink: /:categories/:title/
 
 아래 대부분의 내용은 도서 **빅데이터를 지탱하는 기술**에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
+
 이번 포스트에서는 pivot, 행/열 지향 데이터베이스, MPP, 스타 스키마, 비정규화 테이블을 다룹니다.
 
 <br/>

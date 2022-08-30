@@ -12,7 +12,7 @@ tags:
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### Pandas Data Type (dtype)
 파이썬의 데이터 타입과는 다른 pandas의 data type.

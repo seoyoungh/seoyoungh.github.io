@@ -13,7 +13,7 @@ permalink: /:categories/:title/
 ---
 추천 시스템을 개괄적으로 다룬 논문을 짧게 요약한 것입니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 ### The Survey of Recommender Systems
 - rely on the ratings structure

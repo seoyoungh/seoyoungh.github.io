@@ -14,7 +14,7 @@ permalink: /:categories/:title/
 
 아래 대부분의 내용은 도서 **빅데이터를 지탱하는 기술**에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 Schema란 무엇인지, 그리고 다양한 분산 처리 시스템에 대해 알아보자.
 

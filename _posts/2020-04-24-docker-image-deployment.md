@@ -11,7 +11,7 @@ permalink: /:categories/:title/
 ---
 맥 유저분들! requested access is denied 때는 이렇게 해결하세요!
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 Datacenter programming 수업에서 직접 만든 docker image를 docker hub에 deploy하려는데, 계속 아래와 같은 이슈가 발생했다.
 

@@ -11,7 +11,7 @@ tags:
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### Loss function (손실 함수)란?
 **Cross-Entropy** 라고도 불린다.

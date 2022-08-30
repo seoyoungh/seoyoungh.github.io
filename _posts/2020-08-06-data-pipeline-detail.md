@@ -13,7 +13,7 @@ permalink: /:categories/:title/
 ---
 아래 내용은 도서 **빅데이터를 지탱하는 기술**에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### 빅데이터의 특징
 - **"여러 컴퓨터에 분산처리한다."**

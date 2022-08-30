@@ -11,7 +11,7 @@ tags:
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### 데이터 기반 가설 검증 단계
 - 문제 정의 - 데이터 분석 - 가설 수립 - 실험 및 테스팅 - 최적화

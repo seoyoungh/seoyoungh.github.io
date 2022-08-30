@@ -14,7 +14,7 @@ permalink: /:categories/:title/
 
 아래 대부분의 내용은 도서 **빅데이터를 지탱하는 기술**에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### Map and Reduce
 - `Map`: 분할된 텍스트를 단어별로 수를 카운트

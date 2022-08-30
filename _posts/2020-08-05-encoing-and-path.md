@@ -10,7 +10,7 @@ tags:
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### Encoding
 결국 컴퓨터가 어떠한 방식으로 문자를 표현할지를 정의하는 것.

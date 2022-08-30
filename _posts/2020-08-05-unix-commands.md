@@ -12,7 +12,7 @@ tags:
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### Unix Commands
 - cd

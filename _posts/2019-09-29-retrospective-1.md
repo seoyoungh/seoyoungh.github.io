@@ -10,7 +10,7 @@ tags:
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 ### 중간 점검
 9월이 끝나간다. 봄 학기가 끝나고 방학부터 지금까지, 그동안 뭘 했나 회고해보려고 한다. 휴학했으니까 하고 싶은 것 다해야지! 했는데 진짜 그렇게 하고 있나?

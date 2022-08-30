@@ -13,7 +13,7 @@ permalink: /:categories/:title/
 ---
 Recommender systems 원서를 읽던 중에 두 식이 매우 유사해 차이를 정확하게 정리하려 한다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 우선 코사인 유사도, 피어슨 기반 유사도, adjusted 코사인 유사도의 식을 보겠다.
 

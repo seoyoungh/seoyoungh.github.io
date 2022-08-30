@@ -14,7 +14,7 @@ permalink: /:categories/:title/
 
 아래 대부분의 내용은 도서 **빅데이터를 지탱하는 기술**에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 #### 워크플로 관리
 - 기업 내의 정형적인 업무 프로세스를 진행하기 위한 구조

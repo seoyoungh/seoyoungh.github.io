@@ -13,7 +13,7 @@ permalink: /:categories/:title/
 ---
 전반적인 추천 시스템에 대해 알아보자! Recommender systems 원서에서 발췌했습니다.
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 ## Recommender Systems
 ### 1.1 Introduction

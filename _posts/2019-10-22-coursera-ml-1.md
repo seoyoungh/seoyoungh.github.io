@@ -17,7 +17,7 @@ Andrew Ng 교수님의 Coursera 강좌 [Machine Learning offered by Stanford](ht
 
 **19/10/22 시작!**
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 ### Introduction
 
