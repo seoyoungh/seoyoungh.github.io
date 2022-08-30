@@ -7,7 +7,7 @@ tags: writing
 permalink: /:categories/:title/
 ---
 
-{% include adsense.html %}
+<!-- {% include adsense.html %} -->
 
 ### 블로그를 시작하게 된 계기
 사실 엄청나게 미루어왔던 일이다. 휴학을 하면 가장 먼저 해야지, 다짐했던 일이다. 내가 하는 공부와 생각하는 것들이 스쳐지나가는 것이 아쉬워 꼭 기록으로 남기고 싶었다. 워낙 글쓰는 것도 좋아해서 매일 글을 쓰는 습관을 기르고 싶었다.  
