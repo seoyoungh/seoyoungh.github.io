@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>seoyoungh@yonsei.ac.kr</p>
-
-    <p>+82-10-2474-1433</p>
-
+    seoyoungh@yonsei.ac.kr
+    <br/>
+    +82-10-2474-1433
+    <br/>
     <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University
 
 news: true  # includes a list of news items
