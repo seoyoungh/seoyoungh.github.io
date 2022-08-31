@@ -10,13 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>seoyoungh@yonsei.ac.kr</p>
+
     <p>+82-10-2474-1433</p>
+
     <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<br/>
 I'm a master student at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
 Research Advisor is <a href='https://sites.google.com/view/npark'>Prof. Noseong Park</a>. 
 My research interests include `graph-based recommender systems`, `prediction-based optimization`, and `differential equations`. 
