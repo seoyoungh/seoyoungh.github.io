@@ -24,7 +24,7 @@ I'm a master student at <a href='https://sites.google.com/view/npark'>Big Data A
 Research Advisor is <a href='https://sites.google.com/view/npark'>Prof. Noseong Park</a>. 
 My research interests include `graph-based recommender systems`, `prediction-based optimization`, and `differential equations`. 
 I enjoy solving various real-world problems with data-driven deep learning algorithms.
-Here is a full <a href='https://drive.google.com/file/d/1esb4iQXDwIbyni19VkZ1MOlOQxtGHcNg/view?usp=sharing'>Curriculum Vitae</a>.
+Here is a full <a href='https://drive.google.com/file/d/1zi3vOeYvRxzTpvhL6rxZ9FryDdf4ygCZ/view?usp=sharing'>Curriculum Vitae</a>.
 
 When I’m not looking at code, I can usually be found travelling✈️, doing yoga🧘🏻‍♀️, doing workouts💪🏻, or watching films.
 I desire to be someone who contributes to and changes the world. I want to live forever young, as my name says!
