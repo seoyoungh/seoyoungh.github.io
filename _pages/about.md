@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I'm a master's student at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
 My research Advisor is <a href='https://sites.google.com/view/npark'>Prof. Noseong Park</a>. 
-My research interests include `graph-based recommender systems`, `prediction-based optimization`, and `differential equations`. 
+My research interests include `recommender systems`, `prediction-based optimization`, and `neural differential equations`. 
 I enjoy solving various real-world problems with data-driven deep learning algorithms.
 Here is a full <a href='https://seoyoungh.github.io/files/CV_seoyoung.pdf'>Curriculum Vitae</a>.
 
@@ -36,8 +36,8 @@ I desire to be someone who contributes to and changes the world. I want to live 
   Sep. 2021 - Aug. 2023  
   Yonsei University, Seoul, Korea
 
-* **Bachelor's degree in Business Administration**  
-  **Bachelor's degree in Software Convergence (Data Science Track)**  
+* **Bachelor's degree in Business**  
+  **Bachelor's degree in Software (Data Science Track)**  
   Mar. 2016 - Feb. 2021  
   Kyunghee University, Seoul, Korea
 
