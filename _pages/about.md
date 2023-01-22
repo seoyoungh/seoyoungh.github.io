@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ML/DL Researcher & Data Scientist 💻
+subtitle: AI Research Engineer 💻
 
 profile:
   align: right
@@ -11,6 +11,7 @@ profile:
   address: >
     seoyoungh@yonsei.ac.kr
     <br/>
+    +1-470-962-5211
     +82-10-2474-1433
     <br/>
     <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University
@@ -32,12 +33,16 @@ I desire to be someone who contributes to and changes the world. I want to live 
 <br/>
 
 ## Education
+* **Visiting researcher in Computer Science**
+  Jan. 2023 - May. 2023
+  Georgia Institute of Technology, Atlanta, United States
+
 * **Master's degree in Artificial Intelligence**  
   Sep. 2021 - Aug. 2023  
   Yonsei University, Seoul, Korea
 
 * **Bachelor's degree in Business**  
-  **Bachelor's degree in Software (Data Science Track)**  
+  **Bachelor's degree in Software (Data Science)**  
   Mar. 2016 - Feb. 2021  
   Kyunghee University, Seoul, Korea
 
@@ -55,6 +60,10 @@ I desire to be someone who contributes to and changes the world. I want to live 
 <br/>
 
 ## Awards
+* **Best Student Paper award at IEEE Bigdata 2022**
+  Dec. 2022
+  "TimeKit: A Time-series Forecasting-based Upgrade Kit for Collaborative Filtering" has won the Best Student Paper award at IEEE BigData 2022.
+
 * **KSC 2020 Junior Paper Awards, 4th Prize (학부생/주니어논문경진대회 장려상)**  
   Feb. 2021   
   Hosted by the Korean Institute of Information Scientists and Engineers
