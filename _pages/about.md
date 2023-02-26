@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Research Engineer 💻
+subtitle: ML Research Engineer 💻
 
 profile:
   align: right
@@ -10,21 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     seoyoungh@yonsei.ac.kr
-    <br/>
-    +1-470-962-5211
-    <br/>
-    +82-10-2474-1433
-    <br/>
-    <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University
-    <br/>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I'm a master's student at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
-My research Advisor is <a href='https://sites.google.com/view/npark'>Prof. Noseong Park</a>. 
-My research interests include `recommender systems`, `prediction-based optimization`, and `neural differential equations`. 
+My research advisor is <a href='https://sites.google.com/view/npark'>Prof. Noseong Park</a>. 
+My research interests include recommender systems, prediction-based optimization, and neural differential equations. 
 I enjoy solving various real-world problems with data-driven deep learning algorithms.
 Here is a full <a href='https://seoyoungh.github.io/files/CV_seoyoung.pdf'>Curriculum Vitae</a>.
 
