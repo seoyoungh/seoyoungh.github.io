@@ -14,6 +14,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+E-mail: seoyoungh@yonsei.ac.kr  
+Phone: +82-10-2474-1433
+
+<br/>
+
 I'm a master's student at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
 My research advisor is Prof. Noseong Park. 
 My research interests include recommender systems, prediction-based optimization, and neural differential equations. 
