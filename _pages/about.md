@@ -31,7 +31,7 @@ I desire to be someone who contributes to and changes the world. I want to live 
 <br/>
 
 ## Education
-* **Visiting researcher in Computer Science**   
+* **Visiting researcher in Computational Science & Engineering**   
   Jan. 2023 - May. 2023   
   Georgia Institute of Technology, Atlanta, United States
 
