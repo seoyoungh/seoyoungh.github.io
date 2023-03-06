@@ -21,7 +21,7 @@ Phone: +82-10-2474-1433
 
 I'm a master's student at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
 My research advisor is Prof. Noseong Park. 
-My research interests include recommender systems, prediction-based optimization, and neural differential equations. 
+My research interests include recommender systems, predictive modeling, and neural differential equations. 
 I enjoy solving various real-world problems with data-driven deep learning algorithms.
 Here is a full <a href='https://seoyoungh.github.io/files/CV_seoyoung.pdf'>Curriculum Vitae</a>.
 
