@@ -32,11 +32,11 @@ I desire to be someone who contributes to and changes the world. I want to live 
 
 ## Education
 * **Visiting researcher in Computational Science & Engineering**   
-  Jan. 2023 - May. 2023   
+  Jan. 2023 - Present   
   Georgia Institute of Technology, Atlanta, United States
 
 * **Master's degree in Artificial Intelligence**  
-  Sep. 2021 - Aug. 2023  
+  Sep. 2021 - Present  
   Yonsei University, Seoul, Korea
 
 * **Bachelor's degree in Business**  
