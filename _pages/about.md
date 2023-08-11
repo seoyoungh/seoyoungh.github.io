@@ -25,18 +25,14 @@ My research interests include recommender systems, predictive modeling, and neur
 I enjoy solving various real-world problems with data-driven deep learning algorithms.
 Here is a full <a href='https://seoyoungh.github.io/files/CV_seoyoung.pdf'>Curriculum Vitae</a>.
 
-When I’m not looking at code, I can usually be found travelling✈️, doing yoga🧘🏻‍♀️, doing workouts💪🏻, or watching films.
+When I’m not looking at code, I can usually be found playing tennis, baking, or watching films.
 I desire to be someone who contributes to and changes the world. I want to live forever young, as my name says!
 
 <br/>
 
 ## Education
-* **Visiting researcher in Computational Science & Engineering**   
-  Jan. 2023 - Present   
-  Georgia Institute of Technology, Atlanta, United States
-
 * **Master's degree in Artificial Intelligence**  
-  Sep. 2021 - Present  
+  Sep. 2021 - Aug. 2023  
   Yonsei University, Seoul, Korea
 
 * **Bachelor's degree in Business**  
@@ -47,6 +43,10 @@ I desire to be someone who contributes to and changes the world. I want to live 
 <br/>
 
 ## Experience
+* **Visiting researcher in Computational Science & Engineering**   
+  Jan. 2023 - Jun. 2023   
+  Georgia Institute of Technology, Atlanta, United States
+  
 * **Google Machine Learning Bootcamp**  
   Oct. 2020 - Jan. 2021  
   Google Developers, Seoul, Korea

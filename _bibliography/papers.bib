@@ -1,5 +1,26 @@
 ---
 ---
+@article{choi2023gread,
+  title={GREAD: Graph Neural Reaction-Diffusion Networks},
+  author={Choi, Jeongwhan and Hong, Seoyoung and Park, Noseong and Cho, Sung-Bae},
+  booktitle={International Conference on Machine Learning (ICML)},
+  arxiv={2211.14208},
+  preview={gread_prev.gif},
+  abstract={Graph neural networks (GNNs) are one of the most popular research topics for deep learning. GNN methods typically have been designed on top of the graph signal processing theory. In particular, diffusion equations have been widely used for designing the core processing layer of GNNs, and therefore they are inevitably vulnerable to the notorious oversmoothing problem. Recently, a couple of papers paid attention to reaction equations in conjunctions with diffusion equations. However, they all consider limited forms of reaction equations. To this end, we present a reaction-diffusion equation-based GNN method that considers all popular types of reaction equations in addition to one special reaction equation designed by us. To our knowledge, our paper is one of the most comprehensive studies on reaction-diffusion equation-based GNNs. In our experiments with 9 datasets and 28 baselines, our method, called GREAD, outperforms them in a majority of cases. Further synthetic data experiments show that it mitigates the oversmoothing problem and works well for various homophily rates.},
+  year={2023}
+}
+
+@inproceedings{choi2023blurring,
+  title={Blurring-Sharpening Process Models for Collaborative Filtering},
+  author={Choi, Jeongwhan and Hong, Seoyoung and Park, Noseong and Cho, Sung-Bae},
+  booktitle={Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1096--1106},
+  preview={bspm_prev.jpeg},
+  arxiv={2211.09324},
+  abstract={Collaborative filtering is one of the most fundamental topics for recommender systems. Various methods have been proposed for collaborative filtering, ranging from matrix factorization to graph convolutional methods. Being inspired by recent successes of graph filtering-based methods and score-based generative models (SGMs), we present a novel concept of blurring-sharpening process model (BSPM). SGMs and BSPMs share the same processing philosophy that new information can be discovered (e.g., new images are generated in the case of SGMs) while original information is first perturbed and then recovered to its original form. However, SGMs and our BSPMs deal with different types of information, and their optimal perturbation and recovery processes have fundamental discrepancies. Therefore, our BSPMs have different forms from SGMs. In addition, our concept not only theoretically subsumes many existing collaborative filtering models but also outperforms them in terms of Recall and NDCG in the three benchmark datasets, Gowalla, Yelp2018, and Amazon-book. In addition, the processing time of our method is comparable to other fast baselines. Our proposed concept has much potential in the future to be enhanced by designing better blurring (i.e., perturbation) and sharpening (i.e., recovery) processes than what we use in this paper.},
+  year={2023}
+}
+
 @inproceedings{hong2022timekit,
   title={TimeKit: A Time-series Forecasting-based Upgrade Kit for Collaborative Filtering},
   author={Hong, Seoyoung and Jo, Minju and Kook, Seungji and Jung, Jaeeun and Wi, Hyowon and Park, Noseong and Cho, Sung-Bae},
