@@ -8,7 +8,7 @@ categories:
 tags:
   - machine-learning
   - deep-learning
-  - recommeneder-systems
+  - recommender-systems
 permalink: /:categories/:title/
 ---
 Recommender systems 원서를 읽던 중에 Euclidean Distance와 Manhattan Distance가 등장했다. 두 개념을 비교하고, 왜 특정 상황에서 Euclidean Distance보다 Manhattan Distacne를 사용하는 것이 나은지 알아보자. GAN에서 사용하는 거리 개념도 살짝 맛보자.
