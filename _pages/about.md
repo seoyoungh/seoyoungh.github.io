@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ML Research Engineer 💻
+subtitle: Machine Learning Researcher 💻
 
 profile:
   align: right
@@ -14,19 +14,33 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-E-mail: seoyoungh@yonsei.ac.kr  
-Phone: +82-10-2474-1433
+E-mail: seoyoung.hong@boeing.com 
+Phone: +82-10-7120-6128
 
 <br/>
 
-I'm a master's student at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
-My research advisor is Prof. Noseong Park. 
-My research interests include recommender systems, predictive modeling, and dynamic pricing. 
-I enjoy solving various real-world problems with data-driven deep learning algorithms.
-Here is a full <a href='https://seoyoungh.github.io/files/CV_seoyoung.pdf'>Curriculum Vitae</a>.
+I am currently employed as a Machine Learning Researcher at Boeing Korea. I completed my master's degree at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
+
+My research interests include recommender systems, predictive modeling, and time-series forecasting. I enjoy solving various real-world problems with data-driven deep learning algorithms.
+Here is a full <a href='https://seoyoungh.github.io/files/cv_seoyoung.pdf'>Curriculum Vitae</a>.
 
 When I’m not looking at code, I can usually be found playing tennis, baking, or watching films.
 I desire to be someone who contributes to and changes the world. I want to live forever young, as my name says!
+
+<br/>
+
+## Experience
+* **Machine Learning researcher at Boeing Korea**   
+  Jan. 2024 - Present   
+  Boeing Korea (BKETC), Seoul, Korea
+
+* **Visiting researcher in Computational Science & Engineering**   
+  Jan. 2023 - Jun. 2023   
+  Georgia Institute of Technology, Atlanta, United States
+  
+* **Google Machine Learning Bootcamp**  
+  Oct. 2020 - Jan. 2021  
+  Google Developers, Seoul, Korea
 
 <br/>
 
@@ -39,17 +53,6 @@ I desire to be someone who contributes to and changes the world. I want to live 
   **Bachelor's degree in Software (Data Science)**  
   Mar. 2016 - Feb. 2021  
   Kyunghee University, Seoul, Korea
-
-<br/>
-
-## Experience
-* **Visiting researcher in Computational Science & Engineering**   
-  Jan. 2023 - Jun. 2023   
-  Georgia Institute of Technology, Atlanta, United States
-  
-* **Google Machine Learning Bootcamp**  
-  Oct. 2020 - Jan. 2021  
-  Google Developers, Seoul, Korea
 
 * **Exchange Student**  
   Jan. 2018 - Jun. 2018  
