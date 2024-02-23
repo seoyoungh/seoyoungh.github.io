@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-E-mail: seoyoung.hong@boeing.com 
+E-mail: seoyoung.hong@boeing.com    
 Phone: +82-10-7120-6128
 
 <br/>
