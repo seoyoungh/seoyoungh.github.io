@@ -17,7 +17,6 @@ social: true  # includes social icons at the bottom of the page
 E-mail: seoyoung.hong@boeing.com    
 Phone: +82-10-7120-6128
 
-<br/>
 
 I am currently employed as a Machine Learning Researcher at Boeing Korea. I completed my master's degree at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
 
