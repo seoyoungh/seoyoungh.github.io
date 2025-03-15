@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: My research interests include recommender systems, predictive modeling, and dynamic pricing.
-years: [2023, 2022, 2021, 2020]
+years: [2024, 2023, 2022, 2021, 2020]
 nav: true
 nav_order: 1
 ---
