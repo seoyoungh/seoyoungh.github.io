@@ -21,7 +21,7 @@ Phone: +82-10-7120-6128
 I am currently employed as a Machine Learning Researcher at Boeing Korea. I completed my master's degree at <a href='https://sites.google.com/view/npark'>Big Data Analytics Lab</a>, Yonsei University. 
 
 My research interests include recommender systems, predictive modeling, and time-series forecasting. I enjoy solving various real-world problems with data-driven deep learning algorithms.
-Here is a full <a href='https://seoyoungh.github.io/files/CV_seoyoung.pdf'>Curriculum Vitae</a>.
+Here is a full <a href='https://seoyoungh.github.io/files/cv_seoyoung.pdf'>Curriculum Vitae</a>.
 
 When I’m not looking at code, I can usually be found playing tennis, baking, or watching films.
 I desire to be someone who contributes to and changes the world. I want to live forever young, as my name says!
