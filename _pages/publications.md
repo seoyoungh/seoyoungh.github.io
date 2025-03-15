@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My research interests include recommender systems, predictive modeling, and dynamic pricing.
+description: My research interests include recommender systems, predictive modeling, and time-series forecasting.
 years: [2024, 2023, 2022, 2021, 2020]
 nav: true
 nav_order: 1
